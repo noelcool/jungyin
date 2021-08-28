@@ -1,7 +1,24 @@
 # ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
 
-
 <center>
+
+⭐ &nbsp; KIM JUNN YIN &nbsp; ⭐ <br>
+FINTECH BACKEND &nbsp; 💲
+
+| Date | Contents | Organization |
+|---|---|---|
+| 지원 | Software Development && Infrastructure | BankQ
+| 미지원 | Software Development | GinoSystem
+| 미지원 | Quality Assurance | SmileGateRPG   
+| 미지원 | Quality Assurance | MangoPlate  
+| 미지원 | Quality Assurance | Vertigo Games 
+| 미지원 | Quality Assurance | NHN Services   
+
+-----
+
+<br>
+<br>
+<br>
 
 # Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
