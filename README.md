@@ -14,7 +14,7 @@ FINTECH BACKEND &nbsp; 💲
 | Date | Contents | Organization |
 |---|---|---|
 | 지원 | Software Development && Infrastructure | BankQ
-| 미지원 | Software Development | GinoSystem
+| 미지원 | Software Development | GinnoSystem
 | 미지원 | Quality Assurance - LostArk | SmileGateRPG   
 | 미지원 | Quality Assurance - MangoPlate WEB && APP| MangoPlate  
 | 미지원 | Quality Assurance - BlackShot| Vertigo Games 
@@ -101,8 +101,7 @@ FINTECH BACKEND &nbsp; 💲
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 
 # Cloud Server
-<img src="https://img.shields.io/badge/Amazon AWS
--232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NaverNCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NaverFinCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
