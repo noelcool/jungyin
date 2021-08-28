@@ -1,6 +1,8 @@
 # ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMJUNGYIN&fontSize=50)
 
 
+<center>
+
 # Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -61,8 +63,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad++&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/></a>
 # Version, Revision Control
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SVN-000000?style=flat-square&logo=SVN&logoColor=white"/></a>
@@ -76,3 +77,13 @@
 
 # collaboration tool
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+
+
+
+
+-----
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoelcool%2F&count_bg=%233DAEC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</center>
