@@ -5,6 +5,12 @@
 ⭐ &nbsp; KIM JUNN YIN &nbsp; ⭐ <br>
 FINTECH BACKEND &nbsp; 💲
 
+<br>
+<br>
+
+<center>
+
+✨ Career ✨
 | Date | Contents | Organization |
 |---|---|---|
 | 지원 | Software Development && Infrastructure | BankQ
@@ -13,6 +19,8 @@ FINTECH BACKEND &nbsp; 💲
 | 미지원 | Quality Assurance | MangoPlate  
 | 미지원 | Quality Assurance | Vertigo Games 
 | 미지원 | Quality Assurance | NHN Services   
+
+</center>
 
 -----
 
