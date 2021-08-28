@@ -1,14 +1,11 @@
 # ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
 
-<center>
 
 ⭐ &nbsp; KIM JUNN YIN &nbsp; ⭐ <br>
 FINTECH BACKEND &nbsp; 💲
 
 <br>
 <br>
-
-<center>
 
 ✨ Career ✨
 | Date | Contents | Organization |
@@ -44,9 +41,6 @@ FINTECH BACKEND &nbsp; 💲
 | 미지원 | 정보처리기사 | 한국산업인력공단
 | 미지원 | 컴퓨터활용능력2급 | 대한상공회의소	
 
-</center>
-
------
 
 <br>
 <br>
@@ -55,10 +49,10 @@ FINTECH BACKEND &nbsp; 💲
 
 <h2 align="center"> 👍 &nbsp; language </h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 </p>
 
@@ -101,15 +95,11 @@ FINTECH BACKEND &nbsp; 💲
 <br>
 
 <h2 align="center"> 👍 &nbsp; orm </h2>
-    <h3 align="center"> python </h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=SQLAlchemy&logoColor=white"/></a>
-    </p>
-    <h3 align="center"> java </h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/></a>
-        <img src="https://img.shields.io/badge/MyBatis-2C2255?style=flat-square&logo=MyBatis&logoColor=white"/></a>
-    </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=SQLAlchemy&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/MyBatis-2C2255?style=flat-square&logo=MyBatis&logoColor=white"/></a>
+</p>
 
 <br>
 
