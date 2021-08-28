@@ -13,13 +13,9 @@
 # Database
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB
--003545?style=flat-square&logo=MariaDB
-&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tibero-F96F29?style=flat-square&logo=Tibero&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Altibase
--1B6AC6?style=flat-square&logo=Altibase
-&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Altibase-1B6AC6?style=flat-square&logo=Altibase&logoColor=white"/></a>
 
 
 # Framework
