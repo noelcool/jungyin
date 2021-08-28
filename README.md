@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
+# ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
 
 
 ⭐ &nbsp; KIM JUNN YIN &nbsp; ⭐ <br>
@@ -82,7 +82,6 @@ FINTECH BACKEND &nbsp; 💲
 <br>
 
 <h2 align="center"> 👍 &nbsp; library </h2>
-<h3 align="center"> python </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Beautiful Soup-3776AB?style=flat-square&logo=Beautiful Soup&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/requests-3776AB?style=flat-square&logo=requests&logoColor=white"/></a>
@@ -158,8 +157,17 @@ FINTECH BACKEND &nbsp; 💲
 <p align="center">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 </p>
+
+<br>
 <br>
 
+<center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoelcool%2F&count_bg=%233DAEC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</center>
+
+<br>
+
+
+# ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=footer&text=&fontSize=40)
