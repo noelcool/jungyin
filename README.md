@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KIMJUNGYIN&fontSize=50)
+# ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
 
 
 <center>
