@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
+# ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
 
 
 ⭐ &nbsp; KIM JUNN YIN &nbsp; ⭐ <br>
@@ -170,4 +170,4 @@ FINTECH BACKEND &nbsp; 💲
 <br>
 
 
-# ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=footer&text=&fontSize=40)
+# ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&text=Bye&fontSize=40)
