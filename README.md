@@ -1,9 +1,11 @@
 <!-- # ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
  -->
 
-# KIM JUNN YIN 😃 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamiejunginkim@gmail.com)](mailto:jamiejunginkim@gmail.com)
+## KIM JUNG YIN 😃
 
-<br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamiejunginkim@gmail.com)](mailto:jamiejunginkim@gmail.com)
+
+-----
 
 ## Who Am I ✨
 * majored in software engineering
