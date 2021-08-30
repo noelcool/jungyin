@@ -20,7 +20,7 @@
   * Android && iOS application
 * 😼 Quality Assurance in VertigoGames
   * BlackShot
-* Quality Assurance in NHN Services
+* 😽 Quality Assurance in NHN Services
   * WolfTeam
 
 
