@@ -1,45 +1,60 @@
-# ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
+<!-- # ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
+ -->
+
+# KIM JUNN YIN 😃 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamiejunginkim@gmail.com)](mailto:jamiejunginkim@gmail.com)
+
+<br>
+
+## Who Am I ✨
+* majored in software engineering
+* born and live in Seoul
+
+## Experience ✨
+* 😺Software Development in BankQ
+* 😸 Software Development in GinnoSystem
+  * Usolver3
+* 😹 Quality Assurance in SmileGateRPG
+  * LostArk
+* 😻 Quality Assurance in MangoPlate
+  * MangoPlate Web
+  * Android && iOS application
+* 😼 Quality Assurance in VertigoGames
+  * BlackShot
+* Quality Assurance in NHN Services
+  * WolfTeam
 
 
-⭐ &nbsp; KIM JUNN YIN &nbsp; ⭐ <br>
-FINTECH BACKEND &nbsp; 💲
 
 <br>
 <br>
 
-✨ Career ✨
-| Date | Contents | Organization |
-|---|---|---|
-| 지원 | Software Development && Infrastructure | BankQ
-| 미지원 | Software Development | GinnoSystem
-| 미지원 | Quality Assurance - LostArk | SmileGateRPG   
-| 미지원 | Quality Assurance - MangoPlate WEB && APP| MangoPlate  
-| 미지원 | Quality Assurance - BlackShot| Vertigo Games 
-| 미지원 | Quality Assurance - WolfTeam | NHN Services   
+  [![jungyin's github stats](https://github-readme-stats.vercel.app/api?username=noelcool)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
+<br>
 
-✨ Education ✨
+<!-- ✨ Education ✨
 | Date | Contents | Organization |
 |---|---|---|
 | 미지원 | 소프트웨어공학 | Seoul Digital University
-| 미지원 | 인터넷 | 삼육의명대학교   
+| 미지원 | 인터넷 | 삼육의명대학교 -->
 
 <br>
 
-✨ training ✨
+<!-- ✨ training ✨
 | Date | Contents | Organization |
 |---|---|---|
 | 미지원 | DB Server 성능 향상 분석 및 튜닝 전문가 향상 과정 | 쌍용강북교육센터
-| 미지원 | 표준 프레임워크 응용 정보시스템 개발 전문과정 | 중앙정보처리학원   
+| 미지원 | 표준 프레임워크 응용 정보시스템 개발 전문과정 | 중앙정보처리학원 -->
 
 <br>
-
+<!--
 ✨ license ✨
 | Date | Contents | Organization |
 |---|---|---|
 | 미지원 | 정보처리기사 | 한국산업인력공단
-| 미지원 | 컴퓨터활용능력2급 | 대한상공회의소	
+| 미지원 | 컴퓨터활용능력2급 | 대한상공회의소 -->
 
 
 <br>
@@ -161,12 +176,14 @@ FINTECH BACKEND &nbsp; 💲
 <br>
 <br>
 
-<center>
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoelcool%2F&count_bg=%233DAEC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</center>
+</div>
 
+
+<br>
 <br>
 
 
