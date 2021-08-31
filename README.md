@@ -1,15 +1,14 @@
-<!-- # ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
- -->
+# ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KimJungyin&fontSize=40)
 
-## KIM JUNG YIN 😃
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamiejunginkim@gmail.com)](mailto:jamiejunginkim@gmail.com)
+## Hi there 👋
+- 💻 Server Developer
+- 🐈 born and live in Seoul
+- 🐾 majored in sofrware engineering
 
------
+<!--
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamiejunginkim@gmail.com)](mailto:jamiejunginkim@gmail.com) -->
 
-## Who Am I ✨
-* majored in software engineering
-* born and live in Seoul
 
 ## Experience ✨
 * 😺Software Development in BankQ
