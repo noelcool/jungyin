@@ -106,14 +106,10 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 
-<br>
-<br>
 
-  [![jungyin's github stats](https://github-readme-stats.vercel.app/api?username=noelcool)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- [![jungyin's github stats](https://github-readme-stats.vercel.app/api?username=noelcool)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<br>
-<br>
 
 <!-- ✨ Education ✨
 | Date | Contents | Organization |
@@ -121,7 +117,6 @@
 | 미지원 | 소프트웨어공학 | Seoul Digital University
 | 미지원 | 인터넷 | 삼육의명대학교 -->
 
-<br>
 
 <!-- ✨ training ✨
 | Date | Contents | Organization |
@@ -129,7 +124,6 @@
 | 미지원 | DB Server 성능 향상 분석 및 튜닝 전문가 향상 과정 | 쌍용강북교육센터
 | 미지원 | 표준 프레임워크 응용 정보시스템 개발 전문과정 | 중앙정보처리학원 -->
 
-<br>
 <!--
 ✨ license ✨
 | Date | Contents | Organization |
