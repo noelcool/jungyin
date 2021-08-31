@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/NaverNCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br>
-    <img src="https://img.shields.io/badge/NaverFinCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/NaverFinCloud-F37626?style=flat-square&logo=Naver&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
 - 👍 &nbsp; ide
@@ -105,53 +105,13 @@
 
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
-
-
-  <!-- [![jungyin's github stats](https://github-readme-stats.vercel.app/api?username=noelcool)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-<!-- ✨ Education ✨
-| Date | Contents | Organization |
-|---|---|---|
-| 미지원 | 소프트웨어공학 | Seoul Digital University
-| 미지원 | 인터넷 | 삼육의명대학교 -->
-
-
-<!-- ✨ training ✨
-| Date | Contents | Organization |
-|---|---|---|
-| 미지원 | DB Server 성능 향상 분석 및 튜닝 전문가 향상 과정 | 쌍용강북교육센터
-| 미지원 | 표준 프레임워크 응용 정보시스템 개발 전문과정 | 중앙정보처리학원 -->
-
-<!--
-✨ license ✨
-| Date | Contents | Organization |
-|---|---|---|
-| 미지원 | 정보처리기사 | 한국산업인력공단
-| 미지원 | 컴퓨터활용능력2급 | 대한상공회의소 -->
-
-
 <br>
 <br>
-<br>
-
-
-
-
-
-<br>
-<br>
-
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoelcool%2F&count_bg=%233DAEC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-
 <br>
-<br>
-
 
 # ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&text=Bye&fontSize=40)
