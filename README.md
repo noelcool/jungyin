@@ -6,7 +6,8 @@
 ## Hi there 👋
 - 💻 Server Developer
 - 🐈 born and live in Seoul
-- 🐾 majored in sofrware engineering
+- 🐾 majored - sofrware engineering in SDU
+- 🐾 majored - internet network in SYU
 
 <!--
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamiejunginkim@gmail.com)](mailto:jamiejunginkim@gmail.com) -->
@@ -14,8 +15,22 @@
 
 ## Experience ✨
 * 😺Software Development in BankQ
+  * Web scraping
+    * python3.7, selenium, requests, bs4
+  * Card recommendation system
+    * python3.5, flask, sqlalchemy
+  * Web API
+    * Java8, Springboot, JPA, MyBatis
+  * Web ADMIN
+    * Java8, Springboot, JPA, tymeleaf
+  * Cloud Server
+    * Naver fin cloud
+    * Naver cloud
+    * Amazon web server
+    * Didim cloud
 * 😸 Software Development in GinnoSystem
   * Usolver3
+    * java, egov, oracle, altibase, mysql, ms-sql, tibero
 * 😹 Quality Assurance in SmileGateRPG
   * LostArk
 * 😻 Quality Assurance in MangoPlate
@@ -23,8 +38,11 @@
   * Android && iOS application
 * 😼 Quality Assurance in VertigoGames
   * BlackShot
+  * War of zombie
 * 😽 Quality Assurance in NHN Services
   * WolfTeam
+  * Atlantica
+  * PC Room management system
 
 ## Tech 🌿
 - 🦄 &nbsp; lagnuage
