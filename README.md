@@ -6,37 +6,37 @@
 # Hi there 👋
 - 💻 Server Developer
 - 🐈 born and live in Seoul
-- 🐾 majored - sofrware engineering in SDU
-- 🐾 majored - internet network in SYU
-
-<!-- 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noelcool0101@gmail.com)](mailto:noelcool0101@gmail.com)  -->
+- 🐾 majored
+  - sofrware engineering in SDU
+  - internet network in SYU
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noelcool0101@gmail.com)](mailto:noelcool0101@gmail.com) <a href="https://www.jungyin.com/"> <img src="https://img.shields.io/badge/BLOG-3776AB?style=flat-square&logo=BLOG&logoColor=white"/></a>
 
 <br>
 
 
 # Tech 🌿 && Experience ✨
 
-* ## ✨ Software Development in BankQ - Now
-  * Web Scraping
-    * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/requests-3776AB?style=flat-square&logo=requests&logoColor=white"/> <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=BeautifulSoup&logoColor=white"/>
-  * Card Recommendation System
-    * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=SQLAlchemy&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  * Web API
-    * <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-2C2255?style=flat-square&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Sanic-000000?style=flat-square&logo=Sanic&logoColor=white"/> <img src="https://img.shields.io/badge/PyMySQL-{COLOR}?style=flat-square&logo=PyMySQL&logoColor=white"/>
-  * Web ADMIN
-    * <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=Thymeleaf&logoColor=white"/> 
+* ## ✨ Software Development
+  * ### BankQ
+    * Web Scraping
+      * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/requests-3776AB?style=flat-square&logo=requests&logoColor=white"/> <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=BeautifulSoup&logoColor=white"/>
+    * Card Recommendation System
+      * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=SQLAlchemy&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    * Web API
+      * <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-2C2255?style=flat-square&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+      * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Sanic-000000?style=flat-square&logo=Sanic&logoColor=white"/> <img src="https://img.shields.io/badge/PyMySQL-{COLOR}?style=flat-square&logo=PyMySQL&logoColor=white"/>
+    * Web ADMIN
+      * <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=Thymeleaf&logoColor=white"/> 
 
-  * Cloud Server
-    * <img src="https://img.shields.io/badge/NaverNCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/NaverFinCloud-F37626?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/DidimCloud-232F3E?style=flat-square&logo=DidimCloud&logoColor=white">
-  * Database
-    *   <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  * Linux
-    * <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
+    * Cloud Server
+      * <img src="https://img.shields.io/badge/NaverNCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/NaverFinCloud-F37626?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/DidimCloud-232F3E?style=flat-square&logo=DidimCloud&logoColor=white">
+    * Database
+      *   <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    * Linux
+      * <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
 
 
-* ## ✨ Software Development in GinnoSystem(GIS)
+* ### GinnoSystem(GIS)
   * Usolver3
     * <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Tibero-F96F29?style=flat-square&logo=Tibero&logoColor=white"/> <img src="https://img.shields.io/badge/Altibase-1B6AC6?style=flat-square&logo=Altibase&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
