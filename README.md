@@ -179,11 +179,9 @@
 <br>
 <br>
 
-<div class="category">
-  <div class="stats">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=noelcool&show_icons=true&theme=graywhite" alt="noel's GitHub stats">
-</div>
-</div>
+</p>
   
 
 <br>
