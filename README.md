@@ -18,7 +18,7 @@
   <p class="head">🌿 Tech && Experience ✨</p>
   <p class="title">✨ Software Development</p>
   <div class="company">
-  <p class="subTitle margin-left-2">BankQ</p>
+    <p class="subTitle margin-left-2"><h2>BankQ</h2></p>
   <p class="subTitle__sub margin-left-3">Web Scraping</p>  
   <div class="content margin-left-4">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
