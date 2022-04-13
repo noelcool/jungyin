@@ -146,7 +146,7 @@
     <img src="https://img.shields.io/badge/NaverFinCloud-F37626?style=flat-square&logo=Naver&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   </div>
-
+  <br>
   <p class="subTitle__sub margin-left-3">IDE</p>  
   <div class="content margin-left-4">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
@@ -157,7 +157,7 @@
     <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/>
   </div>
-
+  <br>
   <p class="subTitle__sub margin-left-3">VERSION, REVISION CONTROL</p>  
   <div class="content margin-left-4">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -165,7 +165,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tortoise SVN-000000?style=flat-square&logo=Tortoise SVN&logoColor=white"/>
   </div>
-
+  <br>
   <p class="subTitle__sub margin-left-3">BUG TRACKING TOOL</p>  
   <div class="content margin-left-4">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
