@@ -13,6 +13,9 @@
   <p class="content margin-left-2">- internet network in SYU</p> 
 </div>
 
+<br>
+<br>
+
 
 <div class="category">
   <p class="head"><h1>🌿 Tech && Experience ✨</h1></p>
