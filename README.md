@@ -16,7 +16,7 @@
 
 <div class="category">
   <p class="head">🌿 Tech && Experience ✨</p>
-  <p class="title">✨ Software Development</p>
+  <p class="title"><h2>✨ Software Development</h2></p>
   <div class="company">
     <p class="subTitle margin-left-2"><h3>BankQ</h3></p>
   <p class="subTitle__sub margin-left-3">Web Scraping</p>  
@@ -98,7 +98,7 @@
 
 <br>
 
-<p class="title">✨ QA</p>
+<p class="title"><h2>✨ QA</h2></p>
 <div class="company">
   <p class="subTitle margin-left-2">SmileGateRPG</p>
     <div class="content margin-left-4">
