@@ -137,7 +137,7 @@
 <br>
 
 <div class="company">
-  <p class="title margin-left-2">✨ ETC</p>
+  <p class="title margin-left-2"><h2>✨ ETC</h2></p>
   <p class="subTitle__sub margin-left-3">CLOUD SERVER</p>  
   <div class="content margin-left-4">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
