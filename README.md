@@ -5,7 +5,7 @@
 <br>
 
 <div class="category">
-  <p class="head">Hi there 👋</p>
+  <p class="head"><h1>Hi there 👋</h1></p>
   <p class="subTitle">💻 Server Developer</p>
   <p class="subTitle">🐈 born and live in Seoul</p> 
   <p class="subTitle">🐾 majored</p> 
@@ -15,7 +15,7 @@
 
 
 <div class="category">
-  <p class="head">🌿 Tech && Experience ✨</p>
+  <p class="head"><h1>🌿 Tech && Experience ✨</h1></p>
   <p class="title"><h2>✨ Software Development</h2></p>
   <div class="company">
     <p class="subTitle margin-left-2"><h3>BankQ</h3></p>
