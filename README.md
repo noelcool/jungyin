@@ -68,13 +68,13 @@
 
   <p class="subTitle__sub margin-left-3">Database</p>  
   <div class="content margin-left-4">
-    <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   </div>
 
   <p class="subTitle__sub margin-left-3">Linux</p>  
   <div class="content margin-left-4">
-
+    <img src="https://img.shields.io/badge/Centos-003545?style=flat-square&logo=Centos&logoColor=white"/>
   </div>
 </div>
 </div>
