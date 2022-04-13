@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/>
     <img src="https://img.shields.io/badge/MyBatis-2C2255?style=flat-square&logo=MyBatis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sanic-000000?style=flat-square&logo=Sanic&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyMySQL-{COLOR}?style=flat-square&logo=PyMySQL&logoColor=white"/>
