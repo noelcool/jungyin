@@ -20,7 +20,7 @@
   <p class="head"><h1>🌿 Tech && Experience</h1></p>
   <p class="title"><h2>✨ Software Development</h2></p>
   <div class="company">
-    <p class="subTitle margin-left-2"><h3>🌟BankQ🌟</h3></p>
+    <p class="subTitle margin-left-2"><h3>🌟BankQ</h3></p>
   <p class="subTitle__sub margin-left-3">Web Scraping</p>  
   <div class="content margin-left-4">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -81,7 +81,7 @@
   
 
 <div class="company">
-  <p class="subTitle margin-left-2"><h3>🌟GinnoSystem🌟</h3></p>
+  <p class="subTitle margin-left-2"><h3>🌟GinnoSystem</h3></p>
   <p class="subTitle__sub margin-left-3">Usolver3</p>  
     <div class="content margin-left-4">
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -102,14 +102,14 @@
 
 <p class="title"><h2>✨ QA</h2></p>
 <div class="company">
-  <p class="subTitle margin-left-2"><h3>🌟SmileGateRPG🌟</h3></p>
+  <p class="subTitle margin-left-2"><h3>🌟SmileGateRPG</h3></p>
     <div class="content margin-left-4">
       <img src="https://img.shields.io/badge/LostArk-000000?style=flat-square&logo=LoskArk&logoColor=white"/>
     </div>
 </div>
 
 <div class="company">
-  <p class="subTitle margin-left-2"><h3>🌟MangoPlate🌟</h3></p>
+  <p class="subTitle margin-left-2"><h3>🌟MangoPlate</h3></p>
     <div class="content margin-left-4">
       <img src="https://img.shields.io/badge/MangoPlate Web-000000?style=flat-square&logo=MangoPlateWeb&logoColor=white"/>
       <img src="https://img.shields.io/badge/MangoPlate Android-000000?style=flat-square&logo=MangoPlateAndroid&logoColor=white"/>
@@ -118,7 +118,7 @@
 </div>
 
 <div class="company">
-  <p class="subTitle margin-left-2"><h3>🌟VertigoGames🌟</h3></p>
+  <p class="subTitle margin-left-2"><h3>🌟VertigoGames</h3></p>
     <div class="content margin-left-4">
       <img src="https://img.shields.io/badge/BlackShot-000000?style=flat-square&logo=BlackShot&logoColor=white"/>
       <img src="https://img.shields.io/badge/War of Zombie-000000?style=flat-square&logo=War of Zombie&logoColor=white"/>
@@ -126,7 +126,7 @@
 </div>
 
 <div class="company">
-  <p class="subTitle margin-left-2"><h3>🌟NHN Services🌟</h3></p>
+  <p class="subTitle margin-left-2"><h3>🌟NHN Services</h3></p>
     <div class="content margin-left-4">
       <img src="https://img.shields.io/badge/WolfTeam-000000?style=flat-square&logo=WolfTeam&logoColor=white"/>
       <img src="https://img.shields.io/badge/Atlantica-000000?style=flat-square&logo=Atlantica&logoColor=white"/>
