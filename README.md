@@ -183,9 +183,9 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=noelcool&show_icons=true&theme=graywhite" alt="noel's GitHub stats">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelcool)](https://github.com/noelcool/github-readme-stats)
 </p>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelcool)](https://github.com/noelcool/github-readme-stats)  
 
 <br>
 <br>
