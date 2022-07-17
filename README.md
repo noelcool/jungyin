@@ -2,189 +2,143 @@
 # ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=KIMJUNGYIN&fontSize=40)
 
 <br>
-<br>
 
-<div>
-  <p><h1>Hi there 👋</h1></p>
-  <p>💻 Server Developer</p>
-  <p>🐈 born and live in Seoul</p> 
-  <p>🐾 majored</p> 
-  <p>- software engineering in SDU</p> 
-  <p>- internet network in SYU</p> 
-</div>
+# 🌿 Introdution
+- 안녕하세요! 6년차 백엔드 개발자 김정인입니다.
+- 20대에는 게임을 좋아해서 게임 QA의 삶을, 30대에는 개발을 좋아해서 개발자의 삶을 살고 있습니다.  ~~도합 200%의 삶이라고 할 수 있죠.~~
+- 무언가에 몰입하기, 새롭고 안해본 것 하기를 좋아합니다.
+# ✨ ContactMe
+- **Email** noelcool0101@gmail.com
+- **Blog** https://www.jungyin.com/
+- **GitHub** https://github.com/noelcool
 
-<br>
+# 🛠 Skills
+## Backend
+### Java
+- SpringBoot, Spring MVC, Spring Data JPA
+- JPA
+- Junit5
+- Gradle, Maven
+- IntelliJ, Visual Studio Code, STS, Vim
+- Git, SourceTree
 
+### Python
+- Flask, Sanic
+- PyMySQL, SqlAlchemy
+- Pycharm, Visual Studio Code, Vim
+- Git, SourceTress
 
-<div >
-  <h1>🌿 Tech && Experience</h1>
-  <h2>✨ Software Development</h2>
+## DevOps
+- **CloudServer** AWS, NaverCloud, NaverFinCloud, OracleCloud
+- **Linux** Centos6, Centos7, OracleCentos
+- **Database** MySQL, MariaDB, Oracle
+- **CI** Jenkins
+- **WAS** Apache, Nginx, gUnicorn
+- **WS** Tomcat
 
-  <div>
-  <h3>🌟BankQ</h3>
-  <h4>Web Scraping</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-    <img src="https://img.shields.io/badge/requests-3776AB?style=flat-square&logo=requests&logoColor=white"/>
-    <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=BeautifulSoup&logoColor=white"/>
-  </div>
+## Collaboration
+- **BTS**
+  - Jira, Trello, Mantis, RedMine, HanSoft
+- **Wiki**
+  - Confluence
+- **ETC**
+  - Slack
 
-  <h4>Card Recommendation System<h4>
-  <div>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=SQLAlchemy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  </div>
+# 👏 Work Experience
+## 뱅큐 어드민(2022년 1월 ~ 2022년 6월)
+  - Java8, SpringBoot, JPA, MyBatis, MariaDB, MySQL, Thymeleaf
+  - 뱅큐 어플리케이션 관리자를 위한 어드민 시스템
+  - 회원 관리, 회원 문의 답변
+  - 수집한 데이터 관리 및 업데이트
+  - 카드 정보 추가 및 수정
+## 뱅큐 API 고도화(2022년 1월 ~ 2022년 6월)
+  - Java8, SpringBoot, JPA, MyBatis, MariaDB, MySQL
+  - 뱅큐 어드민에서 사용하는 기능 대응
+    - 어드민 전용 조회 기능, 페이징
+    - 데이터 관리 및 업데이트
+  - 뱅큐 어플리케이션에서 사용하는 기능 대응
+    - P2P펀드, 암호 화폐, 카드 결제 내역 등 연동 자산 조회 기능
+    - 소비 내역 분석 후에 자동으로 가계부 생성
+    - 사용자의 카드 결제 내역 분석 후에 가장 많은 혜택을 받는 신용 카드 추천
+    - 펀드 관련 정보(수익률, 위험성) 등을 분석해서 알려주는 기능
 
+## 카드 추천 시스템(2021.5월 ~ 2021.12월)
+- Java, SpringBoot, JPA, MyBatis, MariaDB
+- 사용자의 소비 내역 대비 최고의 혜택을 줄 수 있는 카드 추천
+- 새로 추가된 카드 검색 및 카드 관련 정보 제공
 
-  <h4>Web API</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MyBatis-2C2255?style=flat-square&logo=MyBatis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sanic-000000?style=flat-square&logo=Sanic&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyMySQL-{COLOR}?style=flat-square&logo=PyMySQL&logoColor=white"/>
-  </div>
+## 카드 알지 못하는 사람(2020.11월 ~ 2021.5월)
+- Java, SpringBoot, JPA, MariaDB, 기획, QA
+- 신용 카드에 대해서 전혀 모르는 사람을 대상으로 하는 프로젝트를 기획
+- 좋아하는 브랜드, 자주 이용하는 브랜드, 한달 최소 사용 금액, 연령대 등 최소 정보만 가지고 신용 카드를 추천하는 시스템
+- QA 교육 및 TestCase 작성
 
-  <h4>Web ADMIN</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Thymeleaf-000000?style=flat-square&logo=Thymeleaf&logoColor=white"/>
-  </div>
+## 펀드 검색(2020년 1월 ~ 2022년 6월)
+- Python, Flask, ElasticSearch
+- 펀드 이름(ex : 피델리티 재팬 증권 투자신탁) 정규화 및 검색
+## P2P 펀드 스크래핑(2018년 6월 ~ 2020년 6월)
+- **OLD** Python, Flask, PyMySQL, MariaDB, Requests, Beautifulsoup
+- **NEW** Python, Sanic, PyMySQL, MariaDB, Requests, Beautifulsoup
+-  피플펀드, 8퍼센트, 비욘드펀드, 테라펀드 등 각종 P2P 사이트 스크래핑
+-  사용자가 원할때 마다 데이터를 즉각 업데이트 하도록 구현
+-  스크래핑 해온 정보를 기반으로 펀드 상태를 분석해서 현재 연체중인지, 정상적인 상태인지 status를 바로 보여주는 시스템
 
-  <h4>Cloud Server</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/NaverNCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NaverFinCloud-F37626?style=flat-square&logo=Naver&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DidimCloud-232F3E?style=flat-square&logo=DidimCloud&logoColor=white">
-  </div>
+## 뱅큐 API (2018년 6월 ~ 2021년 12월)
+  - Java8, SpringBoot, JPA, MyBatis, MySQL
+  - 뱅큐 어드민에서 사용하는 기능 대응
+    - 어드민 전용 조회 기능, 페이징
+    - 데이터 관리 및 업데이트
+  - 뱅큐 어플리케이션에서 사용하는 기능 대응
+    - P2P펀드, 암호 화폐, 카드 결제 내역 등 연동 자산 조회 기능
+    - 소비 내역 분석 후에 자동으로 가계부 생성
+    - 사용자의 카드 결제 내역 분석 후에 가장 많은 혜택을 받는 신용 카드 추천
+    - 펀드 관련 정보(수익률, 위험성) 등을 분석해서 알려주는 기능
 
-  <h4>Database</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  </div>
+## 각종 데이터 수집 및 스크래핑(2018년 6월 ~ 2022년 6월)
+- Python, PyMySQL, MariaDB, MySQL, BeautifulSOup, Selenium
+- 펀드사에서 제공하는 API를 이용한 주기적 펀드 데이터 수집
+- 공공데이터포털에서 제공하는 API를 이용한 주기적 데이터 수집
+  - 특일 정보
+- 은행 사이트를 통한 환율 정보 스크래핑
+- 전국 주유소 및 유가 관련 정보 수집
+  - 오피넷 API를 이용한 데이터 수집
+  - 오피넷 사이트 스크래핑을 이용한 주유소 정보 수집
+- 브랜드, 프랜차이즈 관련 정보 스크래핑
+- MS의 최신 버젼 윈도우 업데이트 내역 수집
 
-  <h4>Linux</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/Centos-003545?style=flat-square&logo=Centos&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OracleCentos-003545?style=flat-square&logo=OracleCentos&logoColor=white"/>
-  </div>
-</div>
-</div>
-  
+## 네트워크 인프라(2018년 6월 ~ 2022년 6월)
+- 전체 운영 서버 관리
+- TLS, MTLS 인증서 설치
+- 리눅스 보안 취약점 점검
+- 배포 지원 및 설정
 
-<div>
-  <h3>🌟GinnoSystem</h3>
-  <h4>Usolver3</h4>  
-    <div>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MariaD-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tibero-F96F29?style=flat-square&logo=Tibero&logoColor=white"/>
-      <br>
-      <img src="https://img.shields.io/badge/Altibase-1B6AC6?style=flat-square&logo=Altibase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    </div>
-</div>
+-----
 
-<br>
+## GIS 솔루션(2017년 6월 ~ 2018년 5월)
+- Java, JavaScript, 정부 프레임워크, Oracle, MySQL, Altiabase, Tibero
+- 지도 솔루션 설치
+- 지도 솔루션 유지 보수 및 고도화
 
-<h2>✨ QA</h2>
-<div>
-  <h3>🌟SmileGateRPG</h3>
-    <div>
-      <img src="https://img.shields.io/badge/LostArk-FFFFFF?style=flat-square&logo=LoskArk&logoColor=white"/>
-    </div>
-</div>
+-----
+## BlackShot, War Of Zombie - QA(2010년 1월 ~ 2012년 7월)
+- BVT, 기능성, 회귀, 언어 현지화 검수
+- 테스트 케이스 작성 및 버그 레포트
+- 테스트 케이스, 검수 결과 보고서 등 각종 템플릿 작성
+- 리소스 및 장비 관리
+- 게임 클라이언트 VGA 사양 별 테스트
 
-<div>
-  <h3>🌟MangoPlate</h3>
-    <div>
-      <img src="https://img.shields.io/badge/MangoPlate-Web-FFFFFF?style=flat-square&logo=MangoPlateWeb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MangoPlate-Android-FFFFFF?style=flat-square&logo=MangoPlateAndroid&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MangoPlate-iOS-FFFFFF?style=flat-square&logo=MangoPlateiOS&logoColor=white"/>
-    </div>
-</div>
+-----
+## NHN SERVICES - 퍼블리싱 QA(2007년 6월 ~ 2009년 6월)
+- 군주 S, 울프팀, 아틀란티카, 한게임 PC방 관리 시스템
+- BVC, 기능성, 회귀 검수
+- 테스트 케이스 작성 및 버그 레포트
+- 네트워크 안정화 테스트
 
-<div>
-  <h3>🌟VertigoGames</h3>
-    <div>
-      <img src="https://img.shields.io/badge/BlackShot-FFFFFF?style=flat-square&logo=BlackShot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WarOfZombie-FFFFFF?style=flat-square&logo=War of Zombie&logoColor=white"/>
-    </div>
-</div>
-
-<div>
-  <h3>🌟NHN Services</h3>
-    <div>
-      <img src="https://img.shields.io/badge/WolfTeam-FFFFFF?style=flat-square&logo=WolfTeam&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Atlantica-FFFFFF?style=flat-square&logo=Atlantica&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PC Rooom Management System-FFFFFF?style=flat-square&logo=PC Rooom Management System&logoColor=white"/>
-    </div>
-</div>
-
-<br><br>
-
-<div>
-  <h2>✨ ETC</h2>
-  <h4>CLOUD SERVER</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NaverNCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NaverFinCloud-F37626?style=flat-square&logo=Naver&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-  </div>
-  <br>
-  <h4>IDE</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/>
-  </div>
-  <br>
-  <h4>VERSION, REVISION CONTROL</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SVN-FFFFFF?style=flat-square&logo=SVN&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tortoise SVN-FFFFFF?style=flat-square&logo=Tortoise SVN&logoColor=white"/>
-  </div>
-  <br>
-  <h4>BUG TRACKING TOOL</h4>  
-  <div>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mantis-00A672?style=flat-square&logo=Mantis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redmine-DC382D?style=flat-square&logo=Redmine&logoColor=white"/>
-  </div>
-</div>
-
-<br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noelcool&show_icons=true&theme=graywhite" alt="noel's GitHub stats">
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=noelcool">
 </p>
-
-<br><br>
+<br>
 
 # ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&text=Bye&fontSize=40)
 
