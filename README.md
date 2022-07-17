@@ -5,8 +5,9 @@
 
 # 🌿 Introdution
 - 안녕하세요! 6년차 백엔드 개발자 김정인입니다.
+- 학부 시절에는 웹을 전공했고, 지금은 사이버 학교에서 소프트웨어 공학을 공부하고 있습니다.
 - 20대에는 게임을 좋아해서 게임 QA의 삶을, 30대에는 개발을 좋아해서 개발자의 삶을 살고 있습니다.  ~~도합 200%의 삶이라고 할 수 있죠.~~
-- 무언가에 몰입하기, 새롭고 안해본 것 하기를 좋아합니다.
+- 몰입하기, 새롭고 안해본 것 하기, 쓰고 정리하고 업데이트 하기를 좋아합니다.
 # ✨ ContactMe
 - **Email** noelcool0101@gmail.com
 - **Blog** https://www.jungyin.com/
@@ -37,12 +38,9 @@
 - **WS** Tomcat
 
 ## Collaboration
-- **BTS**
-  - Jira, Trello, Mantis, RedMine, HanSoft
-- **Wiki**
-  - Confluence
-- **ETC**
-  - Slack
+- **BTS** Jira, Trello, Mantis, RedMine, HanSoft
+- **Wiki** Confluence
+- **ETC** Slack
 
 # 👏 Work Experience
 ## 뱅큐 어드민(2022년 1월 ~ 2022년 6월)
