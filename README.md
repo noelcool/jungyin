@@ -3,7 +3,7 @@
 
 <br>
 
-# 🌿 Introdution
+# 🌿 Introduction
 - 안녕하세요! 6년차 백엔드 개발자 김정인입니다.
 - 학부 시절에는 웹을 전공했고, 지금은 사이버 학교에서 소프트웨어 공학을 공부하고 있습니다.
 - 20대에는 게임을 좋아해서 게임 QA의 삶을, 30대에는 개발을 좋아해서 개발자의 삶을 살고 있습니다.  ~~도합 200%의 삶이라고 할 수 있죠.~~
@@ -27,7 +27,7 @@
 ### Python
 - Flask, Sanic
 - PyMySQL, SqlAlchemy
-- Pycharm, Visual Studio Code, Vim
+- PyCharm, Visual Studio Code, Vim
 - Git, SourceTress
 
 ## DevOps
@@ -76,7 +76,7 @@
 - 비슷해 보이는 소역 내역이더라도 현금성 충전(상품권), 실제 소비 내역을 분석해서 최고의 헤택 계산
 - 1년에 1번만 할인 등 특수 사례 분석 및 적용
 
-## 카드 알지 못하는 사람(2020년 11월 ~ 2021.5월)
+## 카드 알지 못하는 사람(2020년 11월 ~ 2021년 5월)
 - Java, SpringBoot, JPA, MariaDB, 기획, QA
 - 신용 카드에 대해서 전혀 모르는 사람을 대상으로 하는 프로젝트를 기획
 - 좋아하는 브랜드, 자주 이용하는 브랜드, 한달 최소 사용 금액, 연령대 등 최소 정보만 가지고 신용 카드를 추천하는 시스템
@@ -141,6 +141,7 @@
 - 테스트 케이스 작성 및 버그 레포트
 - 네트워크 안정화 테스트
 
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noelcool&show_icons=true&theme=graywhite" alt="noel's GitHub stats">
